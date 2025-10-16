@@ -1,0 +1,1 @@
+var json_IbuKotaKabupaten_3 = {"type":"FeatureCollection","name":"IbuKotaKabupaten_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Nama_Objek":"Pusat Pemerintahan Kabupaten Landak"},"geometry":{"type":"Point","coordinates":[109.938786111111085,0.373758333333333]}}]}
